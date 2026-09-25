@@ -1,0 +1,7 @@
+.venv/
+.venv311/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+support_assistant/chroma_db/
